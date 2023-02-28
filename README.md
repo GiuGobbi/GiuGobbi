@@ -9,7 +9,7 @@
 I am a motivated and a social person who loves to take up new challenges and learn new skills.</h4>
 <br>
 
-## 🛠️ My Skills
+## 🛠️ My skills
 
 ### 📌 Programming languages
 
